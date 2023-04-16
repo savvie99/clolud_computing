@@ -1,7 +1,6 @@
 
 import re
 
-
 # mapper function
 def mapperfunction(map_in):
 
