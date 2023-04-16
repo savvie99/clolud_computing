@@ -4,7 +4,7 @@ import sys
 import mapper
 import shuffler
 import reducer
-from job import threadschedule
+from threadschedule import threadschedule
 
 def main(argv):
     # csv file with flight data
